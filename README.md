@@ -47,7 +47,7 @@ hist(y)
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_4_0.png)
+![png](img/P1_Probstat_B_5025201071_4_0.png)
     
 
 
@@ -99,7 +99,7 @@ hist(Cov19_Hist)
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_8_0.png)
+![png](img/P1_Probstat_B_5025201071_8_0.png)
     
 
 
@@ -160,7 +160,7 @@ mean(z)
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_12_1.png)
+![png](img/P1_Probstat_B_5025201071_12_1.png)
     
 
 
@@ -210,7 +210,7 @@ hist(rchisq(n, b), main <- "Chi-Square Histogram", xlim <- c(0, 20), labels <- T
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_17_0.png)
+![png](img/P1_Probstat_B_5025201071_17_0.png)
     
 
 
@@ -271,25 +271,25 @@ hist(rexp(n <- 10000, data <- lamb))
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_21_0.png)
+![png](img/P1_Probstat_B_5025201071_21_0.png)
     
 
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_21_1.png)
+![png](img/P1_Probstat_B_5025201071_21_1.png)
     
 
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_21_2.png)
+![png](img/P1_Probstat_B_5025201071_21_2.png)
     
 
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_21_3.png)
+![png](img/P1_Probstat_B_5025201071_21_3.png)
     
 
 
@@ -342,7 +342,7 @@ plot(random, type = "l")
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_23_1.png)
+![png](img/P1_Probstat_B_5025201071_23_1.png)
     
 
 
@@ -355,7 +355,7 @@ hist(rnorm(n, mean, sd), breaks = 50, main = "5025201071_Reza Maranelo Alifiansy
 
 
     
-![png](P1_Probstat_B_5025201071_files/P1_Probstat_B_5025201071_24_0.png)
+![png](img/P1_Probstat_B_5025201071_24_0.png)
     
 
 
